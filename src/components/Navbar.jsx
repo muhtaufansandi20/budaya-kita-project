@@ -25,12 +25,15 @@ const Navbar = () => {
           <a href="#about" className="hover:text-cyan-400 transition">
             Tentang
           </a>
+           <a href="#profile" className="hover:text-cyan-400 transition">
+            Profil Desa
+          </a>
           <a href="#gallery" className="hover:text-cyan-400 transition">
             Galeri
           </a>
         </div>
 
-        <button className="bg-cyan-500 hover:bg-cyan-600 text-white px-5 py-2 rounded-full font-semibold transition text-sm">Kunjungi Kami</button>
+        <button href='#kontak' className="bg-cyan-500 hover:bg-cyan-600 text-white px-5 py-2 rounded-full font-semibold transition text-sm">Kunjungi Kami</button>
       </div>
     </nav>
   );
