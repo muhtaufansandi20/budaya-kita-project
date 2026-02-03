@@ -9,7 +9,7 @@ import Footer from "./components/Footer";
 import WaterEffect from "./components/WaterEffect";
 import DetailBudaya from "./components/DetailBudaya";
 import  MapsBajo  from "./components/MapsBajo";
-import Profile from "./components/profile";
+import Profile from "./components/Profile";
 
 // Komponen internal untuk menangani navigasi balik agar tidak blank
 function ScrollHandler() {
