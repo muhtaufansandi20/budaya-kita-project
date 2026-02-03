@@ -1,0 +1,14 @@
+/* src/index.css */
+/* @tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* GANTI MENJADI INI */
+/* body {
+  margin: 0;
+  display: block; 
+  min-height: 100vh;
+} */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
