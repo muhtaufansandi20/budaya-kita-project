@@ -10,6 +10,7 @@ import WaterEffect from "./components/WaterEffect";
 import DetailBudaya from "./components/DetailBudaya";
 import  MapsBajo  from "./components/MapsBajo";
 import Profile from "./components/Profile";
+import VideoSection from "./components/VideoSection";
 
 // Komponen internal untuk menangani navigasi balik agar tidak blank
 function ScrollHandler() {
@@ -143,6 +144,7 @@ function App() {
               <Newsletter />
               <MapsBajo/>
               <Profile/>
+              <VideoSection/>
                           </>
           } />
 
